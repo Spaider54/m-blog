@@ -1,0 +1,27 @@
+#addComment-text{
+  text-decoration: underline;
+}
+.addComment{
+  padding: 10px;
+  margin-left: 10px;
+}
+.addComment *{
+  display: block;
+}
+.addComment p{
+  font-size: 1.1rem;
+  display: block;
+  padding: 0px;
+}
+.addComment input,textarea{
+  padding: 5px;
+  width: 50%;
+}
+.addComment label{
+  display: inline;
+}
+.addComment button{
+  margin-top: 20px;
+  width: 30%;
+  height: 32px;
+}

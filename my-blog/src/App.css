@@ -1,0 +1,16 @@
+
+html,
+body {
+  height: 100%;
+}
+.App{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-body {
+  width: 70%;
+  margin: 0 auto;
+flex: 1 0 auto;
+}

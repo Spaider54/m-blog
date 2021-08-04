@@ -1,0 +1,21 @@
+.comments-list{
+  margin-left: 20px;
+
+  padding: 10px;
+}
+
+.comments-list .comment{
+  border-left: 10px solid rgb(168, 166, 166);
+  padding-left: 10px;
+}
+
+.comments-list .comment h3{
+  text-transform: capitalize;
+}
+.comments-list h4{
+  color:rgb(180, 34, 34);
+}
+.comments-list .comment p {
+  font-style: oblique;
+  color: rgb(129, 111, 111);
+}

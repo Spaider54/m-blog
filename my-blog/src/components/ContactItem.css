@@ -1,0 +1,18 @@
+
+.ContactItem{
+display: inline-block;
+margin: 0 20px 0 20px;
+
+}
+.ContactItem * {
+  display: inline-block;
+
+}
+.ContactItem img{
+  width: 50px;
+border-radius: 50%;
+
+}
+.ContactItem :hover{
+  transform: scale(1.2, 1.2);
+}

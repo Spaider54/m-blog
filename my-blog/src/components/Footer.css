@@ -1,0 +1,15 @@
+
+.Footer{
+  margin-top: 40px;
+  flex-shrink: 0;
+  text-align: center;
+  color: black;
+ background-color: rgb(218, 213, 230);
+ padding:20px;
+}
+
+.Footer a{
+  color: inherit;
+  font-weight: bolder;
+  text-decoration: none;
+}
